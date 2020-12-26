@@ -1,6 +1,6 @@
 # DataP
 
-A Python data quality tool which solves the problems of user participation and complex environment settings.
+DataP, a Python data quality tool which is based on Deequ, solves the problems of user participation and complex environment settings, and still provides with the functions of constraints suggestion and quarantine system.
 
 ![cover](images/DataP.png)
 
